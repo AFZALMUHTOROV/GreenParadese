@@ -1,0 +1,186 @@
+{
+    "language":"Language",
+    "english":"English",
+    "portuguese":"Portuguse",
+    "spanish":"Spanish",
+
+    "dashboard":"Dashboard",
+    "profile":"Profile",
+    "tracer":"TRacer",
+    "trackvision":"TrackVision",
+    "home": "Home",
+    "about": "About",
+    "pilots": "Pilots",
+    "ecotracer": "Ecotracer",
+    "now":"Now",
+    "acesso":"Ensure early access to our App",
+    "descubra":"Discover TrackVision",
+    "descubra-btn":"Discover",
+    "next":"Next",
+    "more":"See More",
+
+    "news":"News",
+    "partners":"Partners",
+    "calendar":"Calendar",
+    "driver":"Drivers",
+    "carreiras":"Careers",
+
+    "racing": "Racing",
+    "rise": "Rise",
+    "experience": "Experience",
+    "atthetop": "At the top",
+
+    "what": "What is TRacer?",
+    "desc1": "TRacer is the first app that turns the passion for Formula E into an interactive and thrilling competition.",
+    
+    "thrill": "Experience the Thrill of Formula E from Anywhere!",
+    "desc2": "With TRacer, every race matters. Follow performances in real time and watch your team shine!",
+    
+    "clubs": "Join CLUBS and Challenge the Biggest Fans!",
+    "desc3": "Form alliances or join fierce competitions. Prove your passion for Formula E and dominate the Club scene.",
+    
+    "challenge": "Enter the Race and Prove You're the Best!",
+    "desc4": "Follow Formula E in a unique way. Your drivers, your choices, your victories. Are you ready for the challenge?",
+    
+    "how": "How Does it Work?",
+
+    "howDesc1t":"Build Your Team:",
+    "howDesc1":"Choose two Formula E drivers to represent your team in each race.",
+
+    "howDesc2t":"Dynamic Scoring:",
+    "howDesc2":"Earn points based on the real-world performance of your drivers, considering wins, fastest laps, and final positions.", 
+
+    "howDesc3t":"Challenge Fans in the Club:",
+    "howDesc3":"Join group competitions called Clubs, where you compete against other users and earn rewards for your performance.",
+
+    "howDesc4t":"Global Ranking:",
+    "howDesc4":"Your points determine your position in the global ranking. Prove that you’re the biggest Formula E fan in the world!",
+
+    "download-faca":"DOWNLOAD IT",
+    "baixe":"DOWNLOAD THE APP",
+
+    "welcome":"Welcome!",
+    "welcome-back":"Welcome Back!",
+    "forgot-password": "Forgot your password?",
+    "account":"Don't have an account?",
+    "signup":"Sign-Up",
+    "login":"Login",
+    "login-google":"Login with Google",
+    "signup-with-google":"Sign-Up with Google",
+    "have-an-account":"Have an account?",
+
+    "username":"Username",
+    "email":"Email",
+    "password":"Password",
+    "repeat-password":"Repeat Password",
+
+    "rights":"@ - 2024 - All Rights Reserved",
+    "mobile-app":"Mobile App",
+    "mobile-appU":"MOBILE APP",
+    "races":"Races",
+    "circuit":"Circuit",
+    "car":"Car",
+    "win":"Wins",
+    "mahindra":"Mahindra",
+    "formula-e":"Formula E",
+    "fia":"FIA",
+
+    "text-about":"Mahindra Racing is an innovative team that shines in Formula E, the leading electric car racing competition. Since 2011, the team has been combining advanced technology and a passion for racing to deliver impressive performances while promoting a more sustainable future. With talented drivers and a commitment to innovation, Mahindra Racing is redefining motorsport and accelerating towards a greener world.",
+    "read-more":"Read More",
+
+    "title-sucess":"Login Sucessful",
+    "text-sucess":" logged in with Google successfully!",
+    "text-sucess-normal":" logged in successfully!",
+
+
+    "title-error":"Login Error",
+    "text-error-password":"Passwords do not match",
+    "text-error-user":"Username is already taken",
+
+    "title-register-sucess":"Account Created",
+    "text-register-sucess":"User registered successfully",
+
+    "title-ecotracer":"Why",
+    "text-ecotracer":"Formula E is an innovative motorsport category that combines speed and technology with a deep commitment to sustainability. Since its inception, Formula E has been leading the transition towards a cleaner and greener future in motorsport, exclusively using electric cars powered by renewable energy. In addition to providing exciting races on urban circuits around the world, the category aims to promote the development of sustainable technologies, encourage the use of electric vehicles, and reduce carbon emissions on the planet. Formula E is not just about racing; it's about driving a sustainable and accessible future for everyone.",
+
+    "edoardo-mortara": "Edoardo Mortara (Geneva, January 12, 1987) is a racing driver born in Geneva, Switzerland, who currently competes in Formula E for the Mahindra Racing team.",
+    "nyck-de-vries":"Nyck de Vries (Sneek, February 6, 1995) is a Dutch racing driver who has competed in various motorsport categories, including Formula E and Formula 1. He currently races for Mahindra Racing in Formula E. De Vries made his Formula 1 debut in September 2022, substituting for Alexander Albon at the Italian Grand Prix and scoring two points for Williams. In 2023, he joined AlphaTauri as a full-time Formula 1 driver, but after 10 races, he was released from the team due to underwhelming results. Throughout his career, Nyck de Vries has gained recognition for his versatility and skill in different racing series.",
+    
+    "length":"Length",
+    "max-velocity":"Max Velocity",
+    "laps":"Laps",
+
+    "autodromo-hermanos-rodriguez":"Hermanos Rodríguez Autodrome",
+    "diriyah-street-circuit":"Diriyah Street Circuit",
+    "anhembi-sambadrome-circuit":"Anhembi Sambadrome Circuit",
+    "tokio-street-circuit":"Tokyo Street Circuit",
+    "misano-world-circuit-marco-simoncelli":"Misano World Circuit Marco Simoncelli",
+    "circuito-de-rua-de-monaco":"Monaco Street Circuit",
+    "tempelhof-airport-street-circuit":"Tempelhof Airport Street Circuit",
+    "shangai-street-circuit":"Shanghai Street Circuit",
+    "portland-international-raceway":"Portland International Raceway",
+    "london-excel-circuit":"London Excel Circuit",
+
+    "upload-avatar":"Profile picture upload completed successfully",
+    "remove-avatar":"Profile picture removed successfully",
+    "error-avatar":" Error removing profile picture",
+
+    "1-appmobile":"TRacer is a mobile app designed to offer an interactive and immersive experience for Formula E fans. With the app, users can connect with the sport in a unique way, tracking the performance of drivers in real time while competing in a gamified platform. TRacer not only brings users closer to the action, but also fosters healthy competition between friends and other Formula E fans worldwide.",
+    "2-appmobile":"In the TRacer app, users can select two drivers to form their team for each race. Based on the drivers' performance on the track, users accumulate points, creating a dynamic and strategic experience. Choosing your team wisely can be the key to achieving the highest scores, turning the simple act of watching races into an exciting and engaging game.",
+    "3-appmobile":"With TRacer, playing with friends becomes even more fun. The app allows you to create personalized leagues, where you can challenge your friends and track who is leading on the scoreboard. Share strategies, discuss the drivers' performance, and turn each race into a competition not just on the track, but also among you and your friends, ensuring an engaging social experience.",
+    "4-appmobile":"TRacer offers various subscription plans that allow users to unlock exclusive features. Users can choose from different access levels to enjoy features such as detailed driver analyses, real-time statistics, and premium competitions. Each plan is designed to meet the different expectations of users, ensuring a personalized and complete experience within the app.",
+
+    "1-titlemobile":"TRacer",
+    "2-titlemobile":"Choose your team",
+    "3-titlemobile":"Play with Friends",
+    "4-titlemobile":"Subscription",
+
+    "1-trackvision":"The TrackVision is an IoT device integrated with the TRacer app, designed to capture and analyze drivers' performance in real time. Utilizing an infrared sensor, the device can record lap times and critical performance data, providing a comprehensive view of what happens on the track. With TrackVision, you have the most accurate information at your fingertips to understand and evaluate the performance of Formula E drivers and teams.",
+    "2-trackvision":"Positioned at the starting line or in specific sectors of the track, the device utilizes cutting-edge technology to capture lap times and detailed data about the behavior of cars during the race. This data is processed and presented in dynamic and static graphs, accessible through the TRacer app, providing a clear and detailed analysis of drivers' performance.",
+    "3-trackvision":"Access to the data generated by TrackVision is done directly through the TRacer app, where you can view graphs and performance metrics in real time. With an intuitive interface, the app makes it easy to interpret the data, allowing you to track results from anywhere. The integration between TrackVision and the app ensures that fans and enthusiasts of Formula E have the most accurate information at their fingertips, optimizing the experience of following the races.",
+
+    "2-titletrack":"Understand How It Works",
+    "3-titletrack":"Get Access",
+
+    "choose": "Choose One",
+    "plan": "Plan",
+    
+    "sub-1-t-princing":"Ideal for Motorsport enthusiasts!",
+    "sub-2-t-princing":"Choose plan for a more complete and unique experience!",
+
+    "price-low":"$0",
+    "beneficio-low-1": "Build Your Team",
+    "beneficio-low-2": "Market closes 1 hour before the start",
+    "beneficio-low-3": "Create up to 1 Club",
+
+    "price-high":"$5",
+    "beneficio-high-1": "Build Your Team",
+    "beneficio-high-2": "Play Ad-Free",
+    "beneficio-high-3": "Market closes 30 minutes before the start",
+    "beneficio-high-4": "Create up to 3 Clubs",
+    "beneficio-high-5": "Access TrackVision",
+
+    "price-max":"$10",
+    "beneficio-max-1": "Build Your Team",
+    "beneficio-max-2": "Play Ad-Free",
+    "beneficio-max-3": "Market closes 1 minute before the start",
+    "beneficio-max-4": "Create up to 10 Clubs",
+    "beneficio-max-5": "Access TrackVision",
+    "beneficio-max-6": "Score Bonus",
+    "beneficio-max-7": "Access Live Broadcast of each circuit",
+
+    "garantir-acesso": "Guarantee Access",
+
+    "change-avatar":"Change your avatar",
+    "upload-your-img":"Upload your image (png, jpg, jpeg)",
+    "upload":"Upload",
+    "select-file":"Select File",
+    "remove":"Remove",
+
+    "user-profile":"User Profile",
+    "user-info":"This is some information about the user.",
+
+    "favorite-team":"Formula E Favorite Team: ",
+    "select-team": "Select your favorite team..."
+
+}

@@ -1,0 +1,186 @@
+{
+    "language":"Idioma",
+    
+    "english":"Inglês",
+    "portuguese":"Português",
+    "spanish":"Espanhol",
+
+    "dashboard":"Dashboard",
+    "profile":"Perfil",
+    "tracer":"TRacer",
+    "trackvision":"TrackVision",
+    "home": "Home",
+    "about": "Sobre",
+    "pilots": "Pilotos",
+    "ecotracer": "Ecotracer",
+    "now":"Agora",
+    "acesso":"Garanta acesso antecipado ao nosso App",
+    "descubra":"Descubra o TrackVision",
+    "descubra-btn":"Descobrir",
+    "next":"Próximo",
+    "more":"Veja Mais",
+
+
+    "news":"Noticias",
+    "partners":"Parcerias",
+    "calendar":"Calendário",
+    "carreiras":"Carreiras",
+
+    "racing":"Corridas",
+    "rise":"Ascensão",
+    "experience":"Experiência",
+    "atthetop":"No topo",
+
+    "welcome":"Bem vindo!",
+    "welcome-back":"Bem vindo de volta!",
+    "forgot-password":"Esqueceu sua Senha?",
+    "account":"Não possui uma conta?",
+    "signup":"Cadastre-se",
+    "login":"Login",
+    "login-google":"Login com Google",
+    "signup-with-google":"Cadrastre-se com Google",
+    "have-an-account":"Já tem uma conta?",
+
+    "username":"Usuário",
+    "email":"Email",
+    "password":"Senha",
+    "repeat-password":"Repetir Senha",
+
+    "what": "O que é o TRacer?",
+    "desc1": "O TRacer é o primeiro aplicativo que transforma a paixão pela Fórmula E em uma competição interativa e emocionante.",
+
+    "thrill": "Viva a Emoção da Fórmula E de Onde Estiver!",
+    "desc2": "Com o TRacer, cada corrida importa. Acompanhe as performances em tempo real e veja seu time brilhar!",
+
+    "clubs": "Junte-se aos CLUBS e Desafie os Maiores Fãs!",
+    "desc3": "Forme alianças ou entre em competições acirradas. Prove sua paixão pela Fórmula E e domine o cenário dos Clubs.",
+
+    "challenge": "Entre na Corrida e Prove que Você é o Melhor!",
+    "desc4": "Acompanhe a Fórmula E de um jeito único. Seus pilotos, suas escolhas, suas vitórias. Você está pronto para o desafio?",
+
+    "how": "Como Funciona?",
+
+    "howDesc1t": "Monte Seu Time:",
+    "howDesc1": "Escolha dois pilotos da Fórmula E para representar sua equipe a cada corrida.",
+
+    "howDesc2t": "Pontuação Dinâmica:",
+    "howDesc2": "Ganhe pontos com base no desempenho real dos seus pilotos, considerando vitórias, voltas rápidas e posições finais.",
+
+    "howDesc3t": "Desafie Fãs no Club:",
+    "howDesc3": "Participe de competições em grupo, chamados Clubs, onde você compete com outros usuários e recebe recompensas por sua performance.",
+
+    "howDesc4t": "Ranking Global:",
+    "howDesc4": "Seus pontos determinam sua posição no ranking global. Prove que você é o maior fã de Fórmula E do mundo!",
+
+    "download-faca":"FAÇA O DOWNLOAD",
+    "baixe":"BAIXE O APP",
+
+    "rights":"@ - 2024 - Todos os Direitos Reservados",
+    "mobile-app":"Aplicativo Mobile",
+    "mobile-appU":"APLICATIVO MOBILE",
+    "races":"Corridas",
+    "circuit":"Circuito",
+    "car":"Carro",
+    "win":"Vitórias",
+    "mahindra":"Mahindra",
+    "formula-e":"Formula E",
+    "fia":"FIA",
+    "driver":"Pilotos",
+
+    "text-about":"A Mahindra Racing é uma equipe inovadora que brilha na Fórmula E, a principal competição de carros elétricos. Desde 2011, a equipe combina tecnologia avançada e paixão por corridas para entregar performances impressionantes, enquanto promove um futuro mais sustentável. Com pilotos talentosos e um compromisso com a inovação, a Mahindra Racing está redefinindo o automobilismo e acelerando em direção a um mundo mais verde.",
+    "read-more":"Leia Mais",
+
+    "title-sucess":"Login realizado com Sucesso",
+    "text-sucess":" logado pelo Google com sucesso!",
+    "text-sucess-normal":" logado com sucesso!",
+
+    "title-error":"Erro no Login",
+    "text-error-password":"As senhas não correspondem",
+    "text-error-user":"Nome de usuário já está em uso",
+
+    "title-register-sucess":"Conta criada",
+    "text-register-sucess":"Usuário registrado com sucesso",
+
+    "title-ecotracer":"Por que",
+    "text-ecotracer":"A Fórmula E é uma categoria inovadora do automobilismo que combina velocidade e tecnologia com um compromisso profundo com a sustentabilidade. Desde sua criação, a Fórmula E tem liderado a transição para um futuro mais limpo e verde nos esportes a motor, utilizando exclusivamente carros elétricos alimentados por energia renovável. Além de proporcionar corridas emocionantes em circuitos urbanos ao redor do mundo, a categoria visa promover o desenvolvimento de tecnologias sustentáveis, incentivar o uso de veículos elétricos e reduzir as emissões de carbono no planeta. A Fórmula E não é apenas sobre competir, mas sobre impulsionar um futuro sustentável e acessível para todos.",
+
+    "edoardo-mortara": "Edoardo Mortara (Genebra, 12 de janeiro de 1987) é um automobilista nascido em Genebra, na Suíça que atualmente compete na Fórmula E pela equipe Mahindra Racing.",
+    "nyck-de-vries":"Nyck de Vries (Sneek, 6 de fevereiro de 1995) é um piloto de automóveis neerlandês que atualmente compete na Fórmula E pela equipe Mahindra Racing. Ele atuou na Fórmula 1 pela equipe AlphaTauri em 2023. Ele já estreou na Fórmula 1 pela primeira vez em setembro de 2022, marcando dois pontos pela Williams no Grande Prêmio da Itália de 2022 substituindo Alexander Albon devido a crise de apendicite. Depois de 10 corridas na temporada 2023 ele foi demitido da AlphaTauri por não gerar muito resultado para equipe.",
+
+    "length": "Comprimento",
+    "max-velocity": "Velocidade Máxima",
+    "laps": "Voltas",
+
+    "autodromo-hermanos-rodriguez":"Autódromo Hermanos Rodríguez",
+    "diriyah-street-circuit":"Circuito de Rua de Diriyah",
+    "anhembi-sambadrome-circuit":"Circuito do Sambódromo do Anhembi",
+    "tokio-street-circuit":"Circuito de Rua de Tóquio",
+    "misano-world-circuit-marco-simoncelli":"Circuito Mundial Misano Marco Simoncelli",
+    "circuito-de-rua-de-monaco":"Circuito de Rua de Mônaco",
+    "tempelhof-airport-street-circuit":"Circuito de Rua do Aeroporto de Tempelhof",
+    "shangai-street-circuit":"Circuito de Rua de Xangai",
+    "portland-international-raceway":"Autódromo Internacional de Portland",
+    "london-excel-circuit":"Circuito London Excel",
+
+    "upload-avatar":"Upload da foto de perfil feito com sucesso",
+    "remove-avatar":" Foto de perfil removida com sucesso",
+    "error-avatar":"Erro ao remover a foto de perfil",
+
+    "1-appmobile":"O TRacer é um aplicativo mobile projetado para oferecer uma experiência interativa e imersiva para os fãs da Fórmula E. Com o app, os usuários podem se conectar com o esporte de maneira única, acompanhando o desempenho dos pilotos em tempo real e competindo em uma plataforma gamificada. O TRacer não só aproxima os usuários da ação, mas também promove a competição saudável entre amigos e outros fãs da Fórmula E ao redor do mundo.",
+    "2-appmobile":"No app TRacer, os usuários podem selecionar dois pilotos para compor sua equipe em cada corrida. Conforme o desempenho dos pilotos na pista, os usuários acumulam pontos, criando uma experiência dinâmica e estratégica. Escolher bem sua equipe pode ser a chave para alcançar as melhores pontuações, transformando a simples observação das corridas em um jogo emocionante e envolvente.",
+    "3-appmobile":"Com o TRacer, jogar com amigos fica ainda mais divertido. O app permite criar ligas personalizadas, onde você pode desafiar seus amigos e acompanhar quem está à frente no placar. Compartilhe estratégias, discuta o desempenho dos pilotos e torne cada corrida uma competição não só nas pistas, mas também entre você e seus amigos, garantindo uma experiência social envolvente.",
+    "4-appmobile":"O TRacer oferece diversos planos de assinatura que permitem desbloquear funcionalidades exclusivas. Os usuários podem escolher entre diferentes níveis de acesso para aproveitar recursos como análises detalhadas dos pilotos, estatísticas em tempo real e competições premium. Cada plano foi pensado para atender às diferentes expectativas dos usuários, garantindo uma experiência personalizada e completa dentro do app.",
+
+    "1-titlemobile":"TRacer",
+    "2-titlemobile":"Escolha sua equipe",
+    "3-titlemobile":"Jogue com amigos",
+    "4-titlemobile":"Assinatura",
+
+    "1-trackvision":"O TrackVision é um dispositivo IoT integrado ao app TRacer, desenvolvido para capturar e analisar o desempenho dos pilotos em tempo real. Utilizando um sensor infravermelho, o dispositivo é capaz de registrar tempos de volta e dados críticos de performance, oferecendo uma visão completa do que acontece nas pistas. Com o TrackVision, você tem em mãos as informações mais precisas para entender e avaliar o desempenho dos pilotos e equipes da Fórmula E.",
+    "2-trackvision":"Posicionado na linha de largada ou em setores específicos da pista, o dispositivo utiliza tecnologia de ponta para capturar os tempos de cada volta e dados detalhados sobre o comportamento dos carros durante a corrida. Esses dados são processados e apresentados em gráficos dinâmicos e estáticos, acessíveis pelo app TRacer, oferecendo uma análise clara e detalhada do desempenho dos pilotos.",
+    "3-trackvision":"O acesso aos dados gerados pelo TrackVision é feito diretamente pelo app TRacer, onde você pode visualizar gráficos e métricas de performance em tempo real. Com uma interface intuitiva, o app facilita a interpretação dos dados, permitindo que você acompanhe os resultados em qualquer lugar. A integração entre o TrackVision e o app garante que os fãs e entusiastas da Fórmula E tenham as informações mais precisas ao seu alcance, otimizando a experiência de acompanhar as corridas.",
+    
+    "2-titletrack":"Entenda como funciona",
+    "3-titletrack":"Tenha acesso",
+
+    "choose":"Escolha um",
+    "plan":"Plano",
+
+    "sub-1-t-princing":"Ideal para entusiastas do automobilismo!",
+    "sub-2-t-princing":"Escolha o plano para uma experiência mais completa e única!",
+    
+    "price-low":"R$ 0",
+    "beneficio-low-1":"Monte sua Equipe",
+    "beneficio-low-2":"Mercado fecha 1 hora antes da largada",
+    "beneficio-low-3":"Crie até 1 Club",
+
+    "price-high":"R$ 29,90",
+    "beneficio-high-1":"Monte sua Equipe",
+    "beneficio-high-2":"Jogue sem Anúncios",
+    "beneficio-high-3":"Mercado fecha 30 minutos antes da largada",
+    "beneficio-high-4":"Crie até 3 Club's",
+    "beneficio-high-5":"Acesse o TrackVision",
+
+    "price-max":"R$ 49,90",
+    "beneficio-max-1":"Monte sua Equipe",
+    "beneficio-max-2":"Jogue sem Anúncios",
+    "beneficio-max-3":"Mercado fecha 1 minuto antes da largada",
+    "beneficio-max-4":"Crie até 10 Club's",
+    "beneficio-max-5":"Acesse o TrackVision",
+    "beneficio-max-6":"Bonificação de pontuação",
+    "beneficio-max-7":"Acesse a transmissão Ao Vivo de cada circuito",
+
+    "garantir-acesso": "Garantir Acesso",
+
+    "change-avatar": "Alterar seu avatar",
+    "upload-your-img": "Envie sua imagem (png, jpg, jpeg)",
+    "upload": "Enviar",
+    "select-file": "Selecionar Arquivo",
+    "remove": "Remover",
+
+    "user-profile": "Perfil do Usuário",
+    "user-info": "Aqui estão algumas informações sobre o usuário.",
+
+    "favorite-team": "Equipe Favorita da Fórmula E: ",
+    "select-team": "Selecione sua equipe favorita..."
+}
