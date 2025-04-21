@@ -33,9 +33,9 @@ const SectionAbout = () => {
             <AboutContent ref={textAbout}>
               <h1 className={textAboutVisible ? 'text-animate' : ''}>{t('ABOUt')}</h1>
               <p className={textAboutVisible ? 'text-animate' : ''}>{t('salom yurtdoshimiz biznig saytda siz uylar ni korib narxini bilishingiz mumkun va bu yerda juda kop malumot va ishonli insonlar lar 100% garantiya va xaridor topib berish uylarni narxini bilishingiz yoki uy sotib olishingiz mumkun hozir da 10000 kishidan ortiq insonga uy larini topshirdik')}</p>
-              {/* <Link to='https://www.mahindra.com/about-us' target='blank' className={textAboutVisible ? 'text-animate' : ''}> */}
+              <Link to='https://t.me/GreenParadiseHomes' target='blank' className={textAboutVisible ? 'text-animate' : ''}>
                 <ButtonRedFullStyle className={textAboutVisible ? 'text-animate' : ''}>{t('Korish')}</ButtonRedFullStyle>
-              {/* </Link> */}
+              </Link>
             </AboutContent>
           </AboutContainer>
       </SectionAboutStyle>

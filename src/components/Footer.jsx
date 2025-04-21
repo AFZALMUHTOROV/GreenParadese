@@ -55,7 +55,7 @@ const Footer = () => {
                  
                     <FooterItems>
                       <img className='arrow-rotation' src={arrowFooter} alt='' />
-                      <h4>Lorem</h4>
+                      <h4>KORISH</h4>
                     </FooterItems>
                 
 
@@ -64,7 +64,7 @@ const Footer = () => {
                 
                     <FooterItems>
                       <img className='arrow-rotation' src={arrowFooter} alt='' />
-                      <h4>Lorem</h4>
+                      <h4>KORISH</h4>
                     </FooterItems>
                 
 
@@ -72,7 +72,7 @@ const Footer = () => {
                   
                     <FooterItems>
                       <img className='arrow-rotation' src={arrowFooter} alt='' />
-                      <h4>Lorem</h4>
+                      <h4>KORISH</h4>
                     </FooterItems>
                   
 
@@ -90,7 +90,7 @@ const Footer = () => {
                   
                     <FooterItems>
                       <img className='arrow-rotation' src={arrowFooter} alt='' />
-                      <h4>Lorem</h4>
+                      <h4>KORISH</h4>
                     </FooterItems>
                   
 
@@ -98,7 +98,7 @@ const Footer = () => {
                  
                     <FooterItems>
                       <img className='arrow-rotation' src={arrowFooter} alt='' />
-                      <h4>Lorem</h4>
+                      <h4>KORISH</h4>
                     </FooterItems>
                            
 
@@ -107,7 +107,7 @@ const Footer = () => {
              
                     <FooterItems>
                       <img className='arrow-rotation' src={arrowFooter} alt='' />
-                      <h4>lorem</h4>
+                      <h4>KORISH</h4>
                     </FooterItems>
                   
 
@@ -115,7 +115,7 @@ const Footer = () => {
               
                     <FooterItems>
                       <img className='arrow-rotation' src={arrowFooter} alt='' />
-                      <h4>lorem</h4>
+                      <h4>KORISH</h4>
                     </FooterItems>
              
                 </FooterContainerItems>

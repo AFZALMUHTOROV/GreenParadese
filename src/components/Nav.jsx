@@ -20,9 +20,9 @@ const Language = () => {
     };
 
     const navigation = [
-        { title: t('portuguese'), onClick: () => changeLanguage('pt') },
-        { title: t('english'), onClick: () => changeLanguage('en') },
-        { title: t('spanish'), onClick: () => changeLanguage('es') },
+        { title: t('UZB'), onClick: () => changeLanguage('uz') },
+        { title: t('ENG'), onClick: () => changeLanguage('en') },
+        { title: t('RUS'), onClick: () => changeLanguage('rs') },
     ]
 
 

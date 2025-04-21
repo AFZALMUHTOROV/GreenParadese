@@ -78,7 +78,7 @@ const SectionHome = () => {
           </BannerImage>
           <BannerContent>
             <h1>{t("BIZNING uylar arzon narxda")}</h1>
-            <Link to='/app-mobile'>
+            <Link to='https://t.me/GreenParadiseHomes'>
               <ButtonRedStyle>{t('Korish')}</ButtonRedStyle>
             </Link>
           </BannerContent>
@@ -88,7 +88,7 @@ const SectionHome = () => {
         <SwiperSlide className='b3'>
           <BannerContent>
             <h1>{t("IShonchli uylarni olishni xoxlaysizmi")}</h1>
-            <Link to='/trackvision'>
+            <Link to='https://t.me/GreenParadiseHomes'>
               <ButtonRedStyle>{t("Korish")}</ButtonRedStyle>
             </Link>
           </BannerContent>

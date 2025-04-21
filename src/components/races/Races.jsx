@@ -87,12 +87,12 @@ const SectionRaces = () => {
                                   
                                     </RaceMainText>
                                     {/* Link */}
-                                    {/* <Link to={`/race-track/${race.slug}`} className='txt-none'> */}
+                                    <Link to={`https://t.me/GreenParadiseHomes`} className='txt-none'>
                                         <RaceSeeMore>
                                             <img className='arrow-rotation' src={Arrow} alt="" />
                                             <RaceButton>Korish</RaceButton>
                                         </RaceSeeMore>
-                                    {/* </Link> */}
+                                    </Link>
                                 </RaceBottom>
                             </RaceContainer>
                         </SwiperSlide>
